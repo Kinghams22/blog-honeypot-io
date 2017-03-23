@@ -1,10 +1,10 @@
 ---
-title:   "Honeypot Tech Meetup: GraphQL"
+title:   "Honeypot Tech Meetup&#58; GraphQL"
 subtitle: The Future of the API
 date:    2016-05-12 12:46:32
 layout:  post
 author:  emma_tracey
-categories: Community
+categories: [Developer Careers]
 cover_image: graphql.png
 permalink:  honeypot-tech-meetup-graphql/
 importance: 2

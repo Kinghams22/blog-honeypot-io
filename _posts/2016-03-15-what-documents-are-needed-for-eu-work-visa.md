@@ -1,16 +1,16 @@
 ---
-title:  Step-by-step guide to the German visa for developers
+title:  Step-by-Step Guide to the German Visa for Developers
 subtitle: Honeypot launches free visa support for users!
 date:    2016-03-15 12:03:24
 layout:  post
 author:  ewe_grajko
-categories: Company
+categories: [HR Tips]
 cover_image: german_visa.png
 permalink:  step-by-step-guide-to-the-german-visa-for-developers
 importance: 2
 ---
 
-Honeypot recently [launched free visa support][6] for all non-EU developers hired through our platform. We believe that for European tech hubs to be great, they need to compete on par with San Francisco in terms of talent attraction. First step is to know all about the visa process here in Germany.
+Honeypot [offers free visa support][6] for all non-EU developers hired in Germany through our platform. We believe that for European tech hubs to be great, they need to compete on par with San Francisco in terms of talent attraction. First step is to know all about the visa process here in Germany.
 
 <!--more-->
 
@@ -36,7 +36,7 @@ Company has to apply for the developer’s work permit in Germany
 
 3. **Fill out the following necessary forms**:
 	- the Erlaubnis einer Beschäftigung form, a formal letter stating why the company wants to hire this specific developer
-	- the Stellenbeschreibung form (which has to be very detailed, if the developer doesn’t get the Blue Card salary). [Blue Card][3] is an approved EU-wide work permit, valid up to 4 years, giving its holders a series of rights (eg. family reunification). Salaries vary depending on the developer’s educational background: qualified employment with min. EUR 49,600 gross p.a. or, in shortage occupations, a gross salary of EUR 38,688 p.a.
+	- the Stellenbeschreibung form (which has to be very detailed, if the developer doesn’t get the Blue Card salary). [Blue Card][3] is an approved EU-wide work permit, valid up to 4 years, giving its holders a series of rights (eg. family reunification). Salaries vary depending on the developer’s educational background: qualified employment with min. €50,080 gross p.a. or, in occupations with shortages, a gross salary of €39,624. 
 	- a proper job description
 
 
@@ -75,9 +75,7 @@ Company has to apply for the developer’s work permit in Germany
 
 * * *
 
-**[Join Honeypot](https://app.honeypot.io/users/sign_up?utm_source=blog&utm_medium=organic&utm_term=e&utm_content=160302&utm_campaign=dev-no) today and receive 4 interview invites or more in three weeks.**
 
-* * *
 
 [1]: https://www.kmk.org/themen/anerkennung-auslaendischer-abschluesse.html
 [2]: http://anabin.kmk.org/

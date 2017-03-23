@@ -3,8 +3,8 @@ title:   Interview questions for a frontend developer
 subtitle: Insights from a Honeypot Talent Rep
 date:    2015-12-28 12:27:37
 layout:  post
-author:  janet_todorova
-categories: HRinTech
+author:  emma_tracey
+categories: [HR Tips]
 cover_image: frontend.png
 permalink:  interview-questions-for-a-frontend-developer/
 importance: 2
@@ -12,7 +12,7 @@ importance: 2
 
 I talk to a lot of frontend developers (and backend and mobile too!) and have begun to get a feeling for the types of questions which open up conversation, allowing frontend engineers a chance to express their ideas. I want to share 7 of my favourites questions, which could form the basis of a good bank of non-technical interview questions for a frontend developer.
 
-<!--more--> 
+<!--more-->
 
 **1. Can you describe your workflow when you create a web page?**
 
@@ -47,7 +47,6 @@ Another [GitHub repository][2]{:target="_blank"} of interview questions for fron
 
 ***
 
-**[Join Honeypot][3] today and connect with top, pre-screened developers. Make 1 hire per 10 invites sent.**
 
 [1]: https://github.com/h5bp/Front-end-Developer-Interview-Questions
 [2]: https://github.com/khan4019/front-end-Interview-Questions

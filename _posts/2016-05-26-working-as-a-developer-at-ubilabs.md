@@ -1,10 +1,10 @@
 ---
-title:   "Ask a CTO: Martin Kleppe, Ubilabs"
+title:   "Ask a CTO&#58; Martin Kleppe, Ubilabs"
 subtitle: On mapping, El Capitan and Hamburg
 date:    2016-05-25 09:53:15
 layout:  post
 author:  emma_tracey
-categories: Developers
+categories: [Interviews]
 cover_image: martin.png
 permalink:  working-as-a-developer-at-ubilabs/
 importance: 2

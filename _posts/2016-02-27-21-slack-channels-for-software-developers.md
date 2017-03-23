@@ -1,10 +1,10 @@
 ---
-title:   21 Slack channels for software developers
+title:   21 Slack Channels for Software Developers
 subtitle: I'll just slack that to you
 date:    2016-02-27 19:02:40
 layout:  post
 author:  emma_tracey
-categories: Developers
+categories: [Developer Careers]
 cover_image: slack.png
 permalink:  21-slack-channels-for-software-developers/
 importance: 2
@@ -86,7 +86,6 @@ Slack channels are to our generation what forums were to the nineties generation
 
 * * *
 
-**[Join Honeypot][22] today and receive 4 interview invites or more in three weeks.**
 
 
 [1]: http://www.hashtagdevelopers.com

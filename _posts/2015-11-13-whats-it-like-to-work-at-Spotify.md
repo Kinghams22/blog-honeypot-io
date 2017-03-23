@@ -4,7 +4,7 @@ subtitle: An interview with Kevin Goldsmith, VP of Engineering at Spotify
 date: 2015-11-13 15:30:15
 layout: post
 author: emma_tracey
-categories: Developer
+categories: [Interviews]
 cover_image: kevin.png
 featured: true
 featured_weight: 4
@@ -191,7 +191,6 @@ Daniel Pink’s [“Drive”][6]{:target="_blank"} is a good read. As is Mihaly 
 
 * * *
 
-**[Join Honeypot][11] today and receive 4 interview invites or more in three weeks!**
 
 
 [1]: http://www.ifpi.org/downloads/Digital-Music-Report-2015.pdf "Digital Music Report 2015"

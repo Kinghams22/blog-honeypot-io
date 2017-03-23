@@ -8,16 +8,30 @@
         <span class="icon-bar"></span>
       </button>
       <a class="navbar-brand page-logo" href="http://honeypot.io">
-        <img src="{{ site.baseurl }}/assets/images/christmas_logo.svg" alt="{{ site.title }}" class="logo site-logo" />
+        <img src="{{ site.baseurl }}/assets/images/logo.svg" alt="{{ site.title }}" class="logo site-logo" />
       </a>
     </div>
     <div class='collapse navbar-collapse navbar-right'>
       <ul class='nav navbar-nav'>
         <li><a class="page-link" href="https://www.honeypot.io/pages/for_employers?utm_source=blog">For Employers</a></li>
         <li class="active"><a class="page-link" href="{{ site.baseurl }}/">Blog</a></li>
-        <li><a class="page-link" href="https://www.honeypot.io/talents/sign_in">Login</a></li>
+        <li><a class="page-link" href="https://www.honeypot.io/talents/login">Login</a></li>
         <li><span><a class="btn btn-primary navbar-btn" href="https://www.honeypot.io/users/sign_up?utm_source=blog">Sign up</a></span></li>
       </ul>
     </div>
   </div>
 </nav>
+<div class="category-nav-wrapper">
+  <div class="category-nav-container">
+    <nav class="category-nav">
+      <a href="{{ site.baseurl }}/" class="category-nav__item{% if page.url == '/' %} category-nav__item--active{% endif %}">All Articles</a>
+      {% for category in site.categories %}
+        {% assign browse_url = category | first | slugify | append: '/' | prepend: '/browse/' %}
+        <a href="{{ browse_url | prepend: site.baseurl }}"
+           class="category-nav__item{% if page.url == browse_url %} category-nav__item--active{% endif %}">
+           {{ category | first }}
+        </a>
+      {% endfor %}
+    </nav>
+  </div>
+</div>

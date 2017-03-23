@@ -58,3 +58,19 @@ kado_damball:
   name: Kado Damball
   desc: Kado Damball is a software developer at Honeypot. He enjoys everything related to data. He also likes learning functional programming concepts.
   avatar: kado_damball.png
+product_team:
+  name: Product Team
+  desc: Honeypot's product team blogs to keep you updated on new features and releases.
+  avatar: product.png
+kamal_naeem:
+  name: Kamal Naeem
+  desc: Kamal is Honeypot’s online marketer.  As a tried and true music nerd, he’s at his best with his headphones on. 
+  avatar: kamal.png
+jelle_groot:
+  name: Jelle Groot
+  desc: Jelle is Honeypot's Market Manager for the Netherlands. Jelle left his career in finance to join the fast-paced world of startups. He likes to try to be creative in both the kitchen and on the football pitch (both with mixed results).  
+  avatar: jelle.png
+stefan_krauss:
+name: Stefan Krauss
+desc: Stefan is Customer Success Manager at Honeypot. He was born in Bavaria and is passionate about startups, technology and pizza.  
+avatar: stefan.png

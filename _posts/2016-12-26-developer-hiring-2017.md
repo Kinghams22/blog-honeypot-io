@@ -1,16 +1,16 @@
 ---
-title: 10 datapoints you need to know supercharge your developer hiring skills in 2017
+title: 10 datapoints you need to know to supercharge your developer hiring skills in 2017
 subtitle:
 date:    2016-12-25 10:09:38
 layout:  post
 author:  emma_tracey
-categories: HR
+categories: [HR Tips]
 cover_image: ten-data-points.png
 permalink: hiring-developers-in-2017/
 importance: 2
 ---
 
-We talk to hundreds of developers each week. Over the course of 2016, we have gathered lots of interesting information about salaries, job expectations and technical preferences.  We bundled it all together into this handy blog post so that your hiring in 2017 is smoother than ever.
+We talk to hundreds of developers each week. Over the course of 2016, we have gathered lots of interesting information about salaries, job expectations and technical preferences.  We bundled it all together into this handy blog post so that your developer hiring in 2017 is smoother than ever.
 
 <!--more-->
 
